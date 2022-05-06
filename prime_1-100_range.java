@@ -18,6 +18,11 @@ class PrimeNum {
 
 				System.out.println("prime number is:" + num);
 
-		}
+		}  
+		 System.out.println("onkar");
+		 System.out.println("sagar");
+		 System.out.println("swapnil");
+
+
 	}
 }
